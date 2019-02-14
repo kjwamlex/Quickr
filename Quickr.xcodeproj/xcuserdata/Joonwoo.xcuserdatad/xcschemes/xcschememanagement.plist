@@ -4,14 +4,51 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Quickr.xcscheme</key>
+		<key>Notification - Quickwatch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Notification - watchQuickr.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Quickr.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Quickwatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>watchQuickr.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>88578E831B718F550009132F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>88578E8F1B718F550009132F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>885CD3691B61B7CD002905DA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>8871AB8B1B61A9F50097875D</key>
 		<dict>
 			<key>primary</key>
@@ -23,6 +60,11 @@
 			<true/>
 		</dict>
 		<key>8871ABAA1B61A9F50097875D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>88DF9D381B96A0710017A12C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

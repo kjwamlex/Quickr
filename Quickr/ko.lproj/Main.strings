@@ -1,0 +1,261 @@
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "10j-tH-lTk"; */
+"10j-tH-lTk.normalTitle" = "7";
+
+/* Class = "UIButton"; normalTitle = "Tap here to go back home"; ObjectID = "1n0-3h-XB5"; */
+"1n0-3h-XB5.normalTitle" = "Tap here to go back home";
+
+/* Class = "UISearchBar"; placeholder = "Quick App Search"; ObjectID = "1rA-NI-aow"; */
+"1rA-NI-aow.placeholder" = "Quick App Search";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "2x3-2B-Dx6"; */
+"2x3-2B-Dx6.normalTitle" = "6";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "44a-ui-0AA"; */
+"44a-ui-0AA.text" = "Version";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "4MS-ut-LZF"; */
+"4MS-ut-LZF.text" = "Messages";
+
+/* Class = "UILabel"; text = "Display ppi"; ObjectID = "4q4-Dc-BAE"; */
+"4q4-Dc-BAE.text" = "Display ppi";
+
+/* Class = "UILabel"; text = "About Quickr"; ObjectID = "5L0-3g-xee"; */
+"5L0-3g-xee.text" = "About Quickr";
+
+/* Class = "UINavigationItem"; title = "Software Update"; ObjectID = "5me-Dj-Dl3"; */
+"5me-Dj-Dl3.title" = "Software Update";
+
+/* Class = "UIButton"; normalTitle = "Tap here to unlock"; ObjectID = "601-Sw-kPO"; */
+"601-Sw-kPO.normalTitle" = "Tap here to unlock";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "6HY-Gx-g3F"; */
+"6HY-Gx-g3F.normalTitle" = "5";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "6t2-Rb-V3U"; */
+"6t2-Rb-V3U.normalTitle" = "-";
+
+/* Class = "UIButton"; normalTitle = "Tweet"; ObjectID = "7fO-fy-5bS"; */
+"7fO-fy-5bS.normalTitle" = "Tweet";
+
+/* Class = "UIButton"; normalTitle = "="; ObjectID = "8vX-2v-9Sq"; */
+"8vX-2v-9Sq.normalTitle" = "=";
+
+/* Class = "UINavigationItem"; title = "BEMAnalogClock"; ObjectID = "90l-93-eua"; */
+"90l-93-eua.title" = "BEMAnalogClock";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "9vW-us-sFJ"; */
+"9vW-us-sFJ.title" = "Root View Controller";
+
+/* Class = "UINavigationItem"; title = "Phone"; ObjectID = "BEw-cN-CRt"; */
+"BEw-cN-CRt.title" = "Phone";
+
+/* Class = "UILabel"; text = "Battery Percentage"; ObjectID = "BtM-Fo-Ssr"; */
+"BtM-Fo-Ssr.text" = "Battery Percentage";
+
+/* Class = "UIButton"; normalTitle = "*"; ObjectID = "C4B-Sf-zRK"; */
+"C4B-Sf-zRK.normalTitle" = "*";
+
+/* Class = "UILabel"; text = "Software Update"; ObjectID = "CMD-DV-nFv"; */
+"CMD-DV-nFv.text" = "Software Update";
+
+/* Class = "UINavigationItem"; title = "Wallpaper"; ObjectID = "Cph-pf-0Cw"; */
+"Cph-pf-0Cw.title" = "Wallpaper";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "DnF-ZY-0W8"; */
+"DnF-ZY-0W8.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "Drv-Kv-wpm"; */
+"Drv-Kv-wpm.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "Dsf-1Y-89c"; */
+"Dsf-1Y-89c.text" = "Yes";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "EIa-ip-wCG"; */
+"EIa-ip-wCG.text" = "Privacy";
+
+/* Class = "UIButton"; disabledTitle = "0"; ObjectID = "F0S-c9-xii"; */
+"F0S-c9-xii.disabledTitle" = "0";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "F0S-c9-xii"; */
+"F0S-c9-xii.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "Build Number"; ObjectID = "F19-Ju-l2d"; */
+"F19-Ju-l2d.text" = "Build Number";
+
+/* Class = "UINavigationItem"; title = "Facebook"; ObjectID = "Ftk-WP-xN6"; */
+"Ftk-WP-xN6.title" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Gsw-tQ-Q87"; */
+"Gsw-tQ-Q87.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "RAM"; ObjectID = "HfM-6N-ZGf"; */
+"HfM-6N-ZGf.text" = "RAM";
+
+/* Class = "UINavigationItem"; title = "Maps"; ObjectID = "ILB-SZ-gCS"; */
+"ILB-SZ-gCS.title" = "Maps";
+
+/* Class = "UILabel"; text = "iOS Version"; ObjectID = "Iyj-Tk-0FA"; */
+"Iyj-Tk-0FA.text" = "iOS Version";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JsD-QD-6os"; */
+"JsD-QD-6os.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Youtube"; ObjectID = "Kya-Zu-AEH"; */
+"Kya-Zu-AEH.title" = "Youtube";
+
+/* Class = "UILabel"; text = "For Suggestions or bug report,"; ObjectID = "LgQ-gi-jT2"; */
+"LgQ-gi-jT2.text" = "For Suggestions or bug report,";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "MBL-Ns-Hq2"; */
+"MBL-Ns-Hq2.normalTitle" = "Home";
+
+/* Class = "UINavigationItem"; title = "Camera"; ObjectID = "Ou2-Tu-b5x"; */
+"Ou2-Tu-b5x.title" = "Camera";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "PXE-5i-86w"; */
+"PXE-5i-86w.text" = "Error";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "PwO-lW-tvG"; */
+"PwO-lW-tvG.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "PzJ-fY-eS3"; */
+"PzJ-fY-eS3.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "Developer"; ObjectID = "SOG-re-rY3"; */
+"SOG-re-rY3.text" = "Developer";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "Uss-16-qgh"; */
+"Uss-16-qgh.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "NONE"; ObjectID = "Vzf-5I-04G"; */
+"Vzf-5I-04G.text" = "NONE";
+
+/* Class = "UIButton"; normalTitle = "."; ObjectID = "Woz-Ky-dw8"; */
+"Woz-Ky-dw8.normalTitle" = ".";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "WxI-wh-JiH"; */
+"WxI-wh-JiH.text" = "1.0";
+
+/* Class = "UINavigationItem"; title = "Apps"; ObjectID = "XKA-dT-Hpz"; */
+"XKA-dT-Hpz.title" = "Apps";
+
+/* Class = "UIButton"; normalTitle = "  "; ObjectID = "Xdj-1G-aZx"; */
+"Xdj-1G-aZx.normalTitle" = "  ";
+
+/* Class = "UILabel"; text = "Please Check App Store."; ObjectID = "Xii-xg-lT9"; */
+"Xii-xg-lT9.text" = "Please Check App Store.";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "ZIf-s3-frg"; */
+"ZIf-s3-frg.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "ZYy-HC-MQe"; */
+"ZYy-HC-MQe.text" = "Messages";
+
+/* Class = "UILabel"; text = "Alpha?"; ObjectID = "a9J-dC-ioI"; */
+"a9J-dC-ioI.text" = "Alpha?";
+
+/* Class = "UINavigationItem"; title = "Messages"; ObjectID = "aaw-7d-CuM"; */
+"aaw-7d-CuM.title" = "Messages";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "akG-iK-yyI"; */
+"akG-iK-yyI.text" = "General";
+
+/* Class = "UINavigationItem"; title = "About Quickr"; ObjectID = "cAB-vW-qdP"; */
+"cAB-vW-qdP.title" = "About Quickr";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "cbT-Bc-uel"; */
+"cbT-Bc-uel.normalTitle" = "8";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "d5y-gp-C3V"; */
+"d5y-gp-C3V.normalTitle" = "2";
+
+/* Class = "UINavigationItem"; title = "Twitter"; ObjectID = "dGl-ds-0pS"; */
+"dGl-ds-0pS.title" = "Twitter";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "eJ4-pd-8zX"; */
+"eJ4-pd-8zX.text" = "Help";
+
+/* Class = "UINavigationItem"; title = "Wallpaper"; ObjectID = "eYF-GT-uBp"; */
+"eYF-GT-uBp.title" = "Wallpaper";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "gdC-bW-cZo"; */
+"gdC-bW-cZo.text" = "Yes";
+
+/* Class = "UILabel"; text = "1A"; ObjectID = "gmv-zc-taJ"; */
+"gmv-zc-taJ.text" = "1A";
+
+/* Class = "UITextField"; text = "https://"; ObjectID = "jf4-1x-qQI"; */
+"jf4-1x-qQI.text" = "https://";
+
+/* Class = "UINavigationItem"; title = "Calculator"; ObjectID = "jsk-Sz-a3L"; */
+"jsk-Sz-a3L.title" = "Calculator";
+
+/* Class = "UINavigationItem"; title = "General"; ObjectID = "k4O-zM-Z5E"; */
+"k4O-zM-Z5E.title" = "General";
+
+/* Class = "UINavigationItem"; title = "Messages"; ObjectID = "kJT-ti-MRY"; */
+"kJT-ti-MRY.title" = "Messages";
+
+/* Class = "UINavigationItem"; title = "Beats 1"; ObjectID = "ltu-Lk-cLv"; */
+"ltu-Lk-cLv.title" = "Beats 1";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "mUp-2k-9bT"; */
+"mUp-2k-9bT.text" = "1.0";
+
+/* Class = "UIButton"; normalTitle = "Tap here to go back to home"; ObjectID = "mVJ-0b-n9x"; */
+"mVJ-0b-n9x.normalTitle" = "Tap here to go back to home";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "mk4-uK-cTi"; */
+"mk4-uK-cTi.text" = "Music";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "n16-V4-wsV"; */
+"n16-V4-wsV.normalTitle" = ">";
+
+/* Class = "UIButton"; normalTitle = "TEST"; ObjectID = "oYd-HA-lTK"; */
+"oYd-HA-lTK.normalTitle" = "TEST";
+
+/* Class = "UILabel"; text = "Safari"; ObjectID = "puF-gd-Z6l"; */
+"puF-gd-Z6l.text" = "Safari";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "r4d-6b-JHd"; */
+"r4d-6b-JHd.text" = "Messages";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "tgT-mQ-p6z"; */
+"tgT-mQ-p6z.text" = "Music";
+
+/* Class = "UIButton"; normalTitle = "/"; ObjectID = "uBU-3M-lvC"; */
+"uBU-3M-lvC.normalTitle" = "/";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "vc0-Aa-Npr"; */
+"vc0-Aa-Npr.text" = "Yes";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "x1Q-q4-jdB"; */
+"x1Q-q4-jdB.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Bug report / Suggestions"; ObjectID = "x2j-Ql-rEz"; */
+"x2j-Ql-rEz.normalTitle" = "Bug report / Suggestions";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "x4K-Tb-xfs"; */
+"x4K-Tb-xfs.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "Processor"; ObjectID = "xim-IM-xGC"; */
+"xim-IM-xGC.text" = "Processor";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "xyw-hK-kKK"; */
+"xyw-hK-kKK.text" = "Yes";
+
+/* Class = "UILabel"; text = "please email me by pressing button below."; ObjectID = "y2c-Qa-g6J"; */
+"y2c-Qa-g6J.text" = "please email me by pressing button below.";
+
+/* Class = "UILabel"; text = "1.0"; ObjectID = "yOL-j5-pbM"; */
+"yOL-j5-pbM.text" = "1.0";
+
+/* Class = "UILabel"; text = "Alpha?"; ObjectID = "yZB-Zs-Ann"; */
+"yZB-Zs-Ann.text" = "Alpha?";
+
+/* Class = "UILabel"; text = "Safari"; ObjectID = "zE2-ct-se3"; */
+"zE2-ct-se3.text" = "Safari";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "zgA-4B-KMe"; */
+"zgA-4B-KMe.text" = "Yes";

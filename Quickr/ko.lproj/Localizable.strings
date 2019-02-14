@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Quickr
+
+  Created by 김준우 on 2015. 7. 23..
+  Copyright © 2015년 김준우. All rights reserved.
+*/
+
+Maps = "지도";
+
+Settings = "설정" ;
+
+Clock = "시간";
+
+Camera = "카메라";
+
+Twitter = "트위터";
+
+FaceBook = "FaceBook";
+
+Calculator = "계산기";
+
+Phone = "전화";
+
+Mail = "메일 보내기";
+
+
